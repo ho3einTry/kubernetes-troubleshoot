@@ -2,7 +2,7 @@
 
   ## not pulled image kubernetes in kubeadm init
   ---
-    https://computingforgeeks.com/manually-pull-container-images-used-by-kubernetes-kubeadm/
+    [manually-pull-container-images-used-by-kubernetes-kubeadm/](https://computingforgeeks.com/manually-pull-container-images-used-by-kubernetes-kubeadm/)
     sudo kubeadm config images list
     sudo kubeadm config images list --image-repository docker.io
     sudo kubeadm config images list --kubernetes-version latest
@@ -12,5 +12,5 @@
   ---
   
   ## kube-fledged
-    https://github.com/senthilrch/kube-fledged
+    [kube-fledged](https://github.com/senthilrch/kube-fledged)
     A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so  application pods start almost instantly
