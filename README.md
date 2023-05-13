@@ -1,7 +1,7 @@
 # kubernetes-troubleshoot
 
   ## not pulled image kubernetes in kubeadm init
- [manually-pull-container-images-used-by-kubernetes-kubeadm](https://computingforgeeks.com/manually-pull-container-images-used-by-kubernetes-kubeadm)
+ [manually-pull-container-images-used-by-kubernetes-kubeadm](https://computingforgeeks.com/manually-pull-container-images-used-by-kubernetes-kubeadm) </br>
     sudo kubeadm config images list
     sudo kubeadm config images list --image-repository docker.io
     sudo kubeadm config images list --kubernetes-version latest
