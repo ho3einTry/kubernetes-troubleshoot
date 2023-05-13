@@ -1,5 +1,5 @@
 # kubernetes-troubleshoot
-
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
   ## not pulled image kubernetes in kubeadm init
   ---
     [manually-pull-container-images-used-by-kubernetes-kubeadm/](https://computingforgeeks.com/manually-pull-container-images-used-by-kubernetes-kubeadm/)
